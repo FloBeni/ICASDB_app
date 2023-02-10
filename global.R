@@ -67,7 +67,7 @@ Clade_color = c("Other Invertebrates"="#f5b48a","Lepido Diptera"="red","Other Ve
                 Nematoda="#B2DF8A",Teleostei="#1F78B4",Hymenoptera="#ba8e18",Aves="#5b5b5b",Mammalia="#66281A",Embryophyta="#33A02C"
 )
 
-table_phylo = read.delim("/home/fbenitiere/ICASDB_app/UI_v2/www/phylogenetic_tree/tree_description.tab")
+table_phylo = read.delim("www/phylogenetic_tree/tree_description.tab")
 phylogenetic_trees = paste("www/phylogenetic_tree/",table_phylo$name,sep="")
 names(phylogenetic_trees) = table_phylo$description
 
