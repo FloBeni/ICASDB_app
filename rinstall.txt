@@ -12,8 +12,7 @@ if(!requireNamespace("phylolm", quietly = TRUE)) install.packages("phylolm", dep
 
 # installation d'un package depuis Bioconductor
 if(!requireNamespace("ggtree", quietly = TRUE)) {
-if(!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager", dependencies = TRUE, repos
-= "http://cran.univ-lyon1.fr")
+if(!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager", dependencies = TRUE, repos= "http://cran.univ-lyon1.fr")
 BiocManager::install("ggtree")
 }
 

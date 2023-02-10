@@ -212,9 +212,9 @@ server <- function(input, output,session) {
       species = input$species_selected_intra
       
       species = str_replace_all(species," ","_")
-      species_genes = read.delim(paste("www/per_species_data/",species,"/by_gene_analysis.tab",sep="") , header=T , sep="\t",comment.char = "#")
+      species_genes = read.delim(paste("www/per_species_data/",species,"/by_gene_analysis.tab.gz",sep="") , header=T , sep="\t",comment.char = "#")
       rownames(species_genes) = species_genes$gene_id
-      species_intron = read.delim(paste("www/per_species_data/",species,"/by_intron_major_overlap.tab",sep=""))
+      species_intron = read.delim(paste("www/per_species_data/",species,"/by_intron_major_overlap.tab.gz",sep=""))
       species_intron$median_fpkm = species_genes[species_intron$gene_id,]$median_fpkm
       species_intron$svr = species_intron$splice_variant_rate
       species_intron$nsvr = species_intron$nonsplice_variant_rate
@@ -243,7 +243,7 @@ server <- function(input, output,session) {
     
     
     if ("None" != input$busco_intra){
-      busco_gene = read.delim(paste("www/per_species_data/",species,"/busco_to_gene_id_",input$busco_intra,sep=""))
+      busco_gene = read.delim(paste("www/per_species_data/",species,"/busco_to_gene_id_",input$busco_intra,".gz",sep=""))
       
       species_intron = species_intron[species_intron$gene_id %in% busco_gene$gene_id, ]
     }
@@ -327,12 +327,12 @@ server <- function(input, output,session) {
     if (input$tabs == "Gene structure"){
       species = input$species_gene_struct
       species = str_replace_all(species," ","_")
-      species_genes = read.delim(paste("www/per_species_data/",species,"/by_gene_analysis.tab",sep=""), header=T , sep="\t",comment.char = "#")
+      species_genes = read.delim(paste("www/per_species_data/",species,"/by_gene_analysis.tab.gz",sep=""), header=T , sep="\t",comment.char = "#")
       
       if ( grepl("busco_id_",input$gene_list) ){
         domain = str_replace(input$gene_list,"busco_id_","")
         
-        busco_gene = read.delim(paste("www/per_species_data/",species,"/busco_to_gene_id_",domain,sep=""))
+        busco_gene = read.delim(paste("www/per_species_data/",species,"/busco_to_gene_id_",domain,".gz",sep=""))
         rownames(busco_gene) = busco_gene$gene_id
         
         species_genes = species_genes[species_genes$gene_id %in% busco_gene$gene_id, ]
@@ -362,9 +362,9 @@ server <- function(input, output,session) {
     if (id_selected != ""){
       if (id_selected != ""){
         start.time <- Sys.time()
-        header = readLines(paste("www/per_species_data/",species,"/by_intron_cds.tab",sep=""),n=16)
+        header = readLines(paste("www/per_species_data/",species,"/by_intron_cds.tab.gz",sep=""),n=16)
         header = read.table(text=header)
-        intron = system(paste("grep '",id_selected,"\t' ","www/per_species_data/",species,"/by_intron_cds.tab",sep=""),intern=T)
+        intron = system(paste("zgrep '",id_selected,"\t' ","www/per_species_data/",species,"/by_intron_cds.tab.gz",sep=""),intern=T)
         print(intron)
         intron = read.table(text=intron)
         colnames(intron) = header
@@ -481,7 +481,7 @@ server <- function(input, output,session) {
     },
     content = function(file) {
       species = str_replace(input$species_selected_intra," ","_")
-      data = read.delim(paste('www/per_species_data/',species,"/by_gene_analysis.tab",sep=""))
+      data = read.delim(paste('www/per_species_data/',species,"/by_gene_analysis.tab.gz",sep=""))
       write.table(data, file=file,row.names=F, col.names=T, sep="\t", quote=F)
     }
   )
@@ -492,7 +492,7 @@ server <- function(input, output,session) {
     content = function(file) {
       species = str_replace(input$species_selected_intra," ","_")
       domain =input$busco_intra
-      data = read.delim(paste("www/per_species_data/",species,"/busco_to_gene_id_",domain,sep="",sep=""))
+      data = read.delim(paste("www/per_species_data/",species,"/busco_to_gene_id_",domain,".gz",sep="",sep=""))
       write.table(data, file=file,row.names=F, col.names=T, sep="\t", quote=F)
     }
   )
@@ -503,7 +503,7 @@ server <- function(input, output,session) {
     },
     content = function(file) {
       species = str_replace(input$species_selected_intra," ","_")
-      data = read.delim(paste('www/per_species_data/',species,"/by_intron_major_overlap.tab",sep=""))
+      data = read.delim(paste('www/per_species_data/',species,"/by_intron_major_overlap.tab.gz",sep=""))
       write.table(data, file=file,row.names=F, col.names=T, sep="\t", quote=F)
     }
   )
