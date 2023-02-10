@@ -1,0 +1,480 @@
+full_names	species	clades	nb_rnaseq
+Abrus_precatorius	Abrus_precatorius	Abrus precatorius	Embryophyta	6
+Acanthocheilonema_viteae	Acanthocheilonema_viteae	Acanthocheilonema viteae	Nematoda	7
+Acanthochromis_polyacanthus	Acanthochromis_polyacanthus	Acanthochromis polyacanthus	Teleostei	50
+Acinonyx_jubatus	Acinonyx_jubatus	Acinonyx jubatus	Mammalia	2
+Acromyrmex_echinatior	Acromyrmex_echinatior	Acromyrmex echinatior	Hymenoptera	42
+Acropora_digitifera	Acropora_digitifera	Acropora digitifera	Other Invertebrates	50
+Acropora_millepora	Acropora_millepora	Acropora millepora	Other Invertebrates	50
+Actinia_tenebrosa	Actinia_tenebrosa	Actinia tenebrosa	Other Invertebrates	18
+Acyrthosiphon_pisum	Acyrthosiphon_pisum	Acyrthosiphon pisum	Other Insecta	35
+Aedes_aegypti	Aedes_aegypti	Aedes aegypti	Lepido Diptera	27
+Aegilops_tauschii	Aegilops_tauschii	Aegilops tauschii	Embryophyta	22
+Ailuropoda_melanoleuca	Ailuropoda_melanoleuca	Ailuropoda melanoleuca	Mammalia	50
+Alligator_mississippiensis	Alligator_mississippiensis	Alligator mississippiensis	Other Vertebrates	39
+Anabarilius_grahami	Anabarilius_grahami	Anabarilius grahami	Teleostei	13
+Ananas_comosus	Ananas_comosus	Ananas comosus	Embryophyta	50
+Anarrhichthys_ocellatus	Anarrhichthys_ocellatus	Anarrhichthys ocellatus	Teleostei	11
+Anas_platyrhynchos	Anas_platyrhynchos	Anas platyrhynchos	Aves	50
+Ancylostoma_ceylanicum	Ancylostoma_ceylanicum	Ancylostoma ceylanicum	Nematoda	37
+Angiostrongylus_cantonensis	Angiostrongylus_cantonensis	Angiostrongylus cantonensis	Nematoda	21
+Anneissia_japonica	Anneissia_japonica	Anneissia japonica	Other Invertebrates	32
+Anolis_carolinensis	Anolis_carolinensis	Anolis carolinensis	Other Vertebrates	50
+Anopheles_gambiae	Anopheles_gambiae	Anopheles gambiae	Lepido Diptera	6
+Anoplophora_glabripennis	Anoplophora_glabripennis	Anoplophora glabripennis	Other Insecta	20
+Anser_cygnoides	Anser_cygnoides	Anser cygnoides	Aves	50
+Aphelenchus_avenae	Aphelenchus_avenae	Aphelenchus avenae	Nematoda	15
+Apis_cerana	Apis_cerana	Apis cerana	Hymenoptera	12
+Apis_florea	Apis_florea	Apis florea	Hymenoptera	4
+Apis_mellifera	Apis_mellifera	Apis mellifera	Hymenoptera	40
+Apium_graveolens	Apium_graveolens	Apium graveolens	Embryophyta	15
+Apostasia_shenzhenica	Apostasia_shenzhenica	Apostasia shenzhenica	Embryophyta	7
+Apteryx_rowi	Apteryx_rowi	Apteryx rowi	Aves	16
+Aquila_chrysaetos	Aquila_chrysaetos	Aquila chrysaetos	Aves	3
+Aquilegia_coerulea	Aquilegia_coerulea	Aquilegia coerulea	Embryophyta	50
+Arabidopsis_lyrata	Arabidopsis_lyrata	Arabidopsis lyrata	Embryophyta	50
+Arabidopsis_thaliana	Arabidopsis_thaliana	Arabidopsis thaliana	Embryophyta	50
+Arachis_hypogaea	Arachis_hypogaea	Arachis hypogaea	Embryophyta	50
+Arachis_ipaensis	Arachis_ipaensis	Arachis ipaensis	Embryophyta	35
+Archocentrus_centrarchus	Archocentrus_centrarchus	Archocentrus centrarchus	Teleostei	36
+Arctia_plantaginis	Arctia_plantaginis	Arctia plantaginis	Lepido Diptera	50
+Armadillidium_vulgare	Armadillidium_vulgare	Armadillidium vulgare	Other Invertebrates	15
+Arvicanthis_niloticus	Arvicanthis_niloticus	Arvicanthis niloticus	Mammalia	8
+Arvicola_amphibius	Arvicola_amphibius	Arvicola amphibius	Mammalia	6
+Asparagus_officinalis	Asparagus_officinalis	Asparagus officinalis	Embryophyta	50
+Asterias_rubens	Asterias_rubens	Asterias rubens	Other Invertebrates	4
+Athalia_rosae	Athalia_rosae	Athalia rosae	Hymenoptera	6
+Atta_cephalotes	Atta_cephalotes	Atta cephalotes	Hymenoptera	2
+Bactrocera_oleae	Bactrocera_oleae	Bactrocera oleae	Lepido Diptera	48
+Bagarius_yarrelli	Bagarius_yarrelli	Bagarius yarrelli	Teleostei	11
+Balaenoptera_acutorostrata	Balaenoptera_acutorostrata	Balaenoptera acutorostrata	Mammalia	8
+Belonocnema_treatae	Belonocnema_treatae	Belonocnema treatae	Hymenoptera	14
+Bemisia_tabaci	Bemisia_tabaci	Bemisia tabaci	Other Insecta	50
+Benincasa_hispida	Benincasa_hispida	Benincasa hispida	Embryophyta	50
+Beta_vulgaris	Beta_vulgaris	Beta vulgaris	Embryophyta	50
+Betta_splendens	Betta_splendens	Betta splendens	Teleostei	50
+Bison_bison	Bison_bison	Bison bison	Mammalia	24
+Blattella_germanica	Blattella_germanica	Blattella germanica	Other Insecta	30
+Bombus_bifarius	Bombus_bifarius	Bombus bifarius	Hymenoptera	6
+Bombus_terrestris	Bombus_terrestris	Bombus terrestris	Hymenoptera	33
+Bombus_vancouverensis	Bombus_vancouverensis	Bombus vancouverensis	Hymenoptera	7
+Bombus_vosnesenskii	Bombus_vosnesenskii	Bombus vosnesenskii	Hymenoptera	50
+Bombyx_mori	Bombyx_mori	Bombyx mori	Lepido Diptera	14
+Bos_indicus	Bos_indicus	Bos indicus	Mammalia	22
+Bos_taurus	Bos_taurus	Bos taurus	Mammalia	26
+Bothrops_jararaca	Bothrops_jararaca	Bothrops jararaca	Other Vertebrates	39
+Brachypodium_distachyon	Brachypodium_distachyon	Brachypodium distachyon	Embryophyta	50
+Branchiostoma_floridae	Branchiostoma_floridae	Branchiostoma floridae	Other Invertebrates	50
+Brassica_carinata	Brassica_carinata	Brassica carinata	Embryophyta	11
+Brassica_cretica	Brassica_cretica	Brassica cretica	Embryophyta	16
+Brassica_napus	Brassica_napus	Brassica napus	Embryophyta	50
+Brassica_oleracea	Brassica_oleracea	Brassica oleracea	Embryophyta	50
+Brassica_rapa	Brassica_rapa	Brassica rapa	Embryophyta	50
+Bubalus_bubalis	Bubalus_bubalis	Bubalus bubalis	Mammalia	50
+Caenorhabditis_elegans	Caenorhabditis_elegans	Caenorhabditis elegans	Nematoda	50
+Caenorhabditis_nigoni	Caenorhabditis_nigoni	Caenorhabditis nigoni	Nematoda	40
+Cajanus_cajan	Cajanus_cajan	Cajanus cajan	Embryophyta	50
+Calidris_pugnax	Calidris_pugnax	Calidris pugnax	Aves	30
+Caligus_rogercresseyi	Caligus_rogercresseyi	Caligus rogercresseyi	Other Invertebrates	7
+Callithrix_jacchus	Callithrix_jacchus	Callithrix jacchus	Mammalia	14
+Callorhinchus_milii	Callorhinchus_milii	Callorhinchus milii	Other Vertebrates	11
+Camarhynchus_parvulus	Camarhynchus_parvulus	Camarhynchus parvulus	Aves	5
+Camelina_sativa	Camelina_sativa	Camelina sativa	Embryophyta	50
+Camponotus_floridanus	Camponotus_floridanus	Camponotus floridanus	Hymenoptera	37
+Canis_lupus	Canis_lupus	Canis lupus	Mammalia	5
+Cannabis_sativa	Cannabis_sativa	Cannabis sativa	Embryophyta	50
+Capsella_rubella	Capsella_rubella	Capsella rubella	Embryophyta	50
+Capsicum_annuum	Capsicum_annuum	Capsicum annuum	Embryophyta	43
+Capsicum_baccatum	Capsicum_baccatum	Capsicum baccatum	Embryophyta	25
+Capsicum_chinense	Capsicum_chinense	Capsicum chinense	Embryophyta	50
+Carassius_auratus	Carassius_auratus	Carassius auratus	Teleostei	49
+Carica_papaya	Carica_papaya	Carica papaya	Embryophyta	50
+Carpinus_fangiana	Carpinus_fangiana	Carpinus fangiana	Embryophyta	6
+Carya_illinoinensis	Carya_illinoinensis	Carya illinoinensis	Embryophyta	50
+Catharus_ustulatus	Catharus_ustulatus	Catharus ustulatus	Aves	21
+Centruroides_sculpturatus	Centruroides_sculpturatus	Centruroides sculpturatus	Other Invertebrates	8
+Cephalotus_follicularis	Cephalotus_follicularis	Cephalotus follicularis	Embryophyta	17
+Cephus_cinctus	Cephus_cinctus	Cephus cinctus	Hymenoptera	17
+Ceratitis_capitata	Ceratitis_capitata	Ceratitis capitata	Lepido Diptera	29
+Ceratodon_purpureus	Ceratodon_purpureus	Ceratodon purpureus	Embryophyta	5
+Ceratosolen_solmsi	Ceratosolen_solmsi	Ceratosolen solmsi	Hymenoptera	20
+Ceratotherium_simum	Ceratotherium_simum	Ceratotherium simum	Mammalia	2
+Cervus_elaphus	Cervus_elaphus	Cervus elaphus	Mammalia	3
+Chelonus_insularis	Chelonus_insularis	Chelonus insularis	Hymenoptera	5
+Chenopodium_quinoa	Chenopodium_quinoa	Chenopodium quinoa	Embryophyta	50
+Chiroxiphia_lanceolata	Chiroxiphia_lanceolata	Chiroxiphia lanceolata	Aves	3
+Cicer_arietinum	Cicer_arietinum	Cicer arietinum	Embryophyta	50
+Cimex_lectularius	Cimex_lectularius	Cimex lectularius	Other Insecta	10
+Cinnamomum_micranthum	Cinnamomum_micranthum	Cinnamomum micranthum	Embryophyta	8
+Citrus_clementina	Citrus_clementina	Citrus clementina	Embryophyta	50
+Citrus_sinensis	Citrus_sinensis	Citrus sinensis	Embryophyta	50
+Citrus_unshiu	Citrus_unshiu	Citrus unshiu	Embryophyta	23
+Clarias_magur	Clarias_magur	Clarias magur	Teleostei	21
+Cloeon_dipterum	Cloeon_dipterum	Cloeon dipterum	Other Insecta	50
+Clonorchis_sinensis	Clonorchis_sinensis	Clonorchis sinensis	Other Invertebrates	10
+Coffea_arabica	Coffea_arabica	Coffea arabica	Embryophyta	50
+Coffea_canephora	Coffea_canephora	Coffea canephora	Embryophyta	50
+Coffea_eugenioides	Coffea_eugenioides	Coffea eugenioides	Embryophyta	41
+Colossoma_macropomum	Colossoma_macropomum	Colossoma macropomum	Teleostei	47
+Contarinia_nasturtii	Contarinia_nasturtii	Contarinia nasturtii	Lepido Diptera	8
+Coptis_chinensis	Coptis_chinensis	Coptis chinensis	Embryophyta	23
+Coptotermes_formosanus	Coptotermes_formosanus	Coptotermes formosanus	Other Insecta	18
+Corchorus_capsularis	Corchorus_capsularis	Corchorus capsularis	Embryophyta	50
+Corchorus_olitorius	Corchorus_olitorius	Corchorus olitorius	Embryophyta	50
+Corvus_cornix	Corvus_cornix	Corvus cornix	Aves	50
+Corymbia_citriodora	Corymbia_citriodora	Corymbia citriodora	Embryophyta	5
+Cottoperca_gobio	Cottoperca_gobio	Cottoperca gobio	Teleostei	7
+Crocodylus_porosus	Crocodylus_porosus	Crocodylus porosus	Other Vertebrates	12
+Crotalus_tigris	Crotalus_tigris	Crotalus tigris	Other Vertebrates	40
+Cryptotermes_secundus	Cryptotermes_secundus	Cryptotermes secundus	Other Insecta	11
+Cucumis_melo	Cucumis_melo	Cucumis melo	Embryophyta	50
+Cucumis_sativus	Cucumis_sativus	Cucumis sativus	Embryophyta	50
+Cucurbita_maxima	Cucurbita_maxima	Cucurbita maxima	Embryophyta	50
+Cucurbita_moschata	Cucurbita_moschata	Cucurbita moschata	Embryophyta	50
+Cucurbita_pepo	Cucurbita_pepo	Cucurbita pepo	Embryophyta	50
+Culex_quinquefasciatus	Culex_quinquefasciatus	Culex quinquefasciatus	Lepido Diptera	8
+Cuscuta_australis	Cuscuta_australis	Cuscuta australis	Embryophyta	50
+Cuscuta_campestris	Cuscuta_campestris	Cuscuta campestris	Embryophyta	50
+Cyanistes_caeruleus	Cyanistes_caeruleus	Cyanistes caeruleus	Aves	40
+Cyclopterus_lumpus	Cyclopterus_lumpus	Cyclopterus lumpus	Teleostei	44
+Cyprinus_carpio	Cyprinus_carpio	Cyprinus carpio	Teleostei	31
+Danaus_plexippus	Danaus_plexippus	Danaus plexippus	Lepido Diptera	1
+Danio_rerio	Danio_rerio	Danio rerio	Teleostei	6
+Daphnia_galeata	Daphnia_galeata	Daphnia galeata	Other Invertebrates	50
+Daucus_carota	Daucus_carota	Daucus carota	Embryophyta	50
+Dendrobium_catenatum	Dendrobium_catenatum	Dendrobium catenatum	Embryophyta	50
+Dendroctonus_ponderosae	Dendroctonus_ponderosae	Dendroctonus ponderosae	Other Insecta	30
+Dermochelys_coriacea	Dermochelys_coriacea	Dermochelys coriacea	Other Vertebrates	13
+Diabrotica_virgifera	Diabrotica_virgifera	Diabrotica virgifera	Other Insecta	50
+Diaphorina_citri	Diaphorina_citri	Diaphorina citri	Other Insecta	50
+Dichanthelium_oligosanthes	Dichanthelium_oligosanthes	Dichanthelium oligosanthes	Embryophyta	19
+Dictyocaulus_viviparus	Dictyocaulus_viviparus	Dictyocaulus viviparus	Nematoda	31
+Digitaria_exilis	Digitaria_exilis	Digitaria exilis	Embryophyta	5
+Dinoponera_quadriceps	Dinoponera_quadriceps	Dinoponera quadriceps	Hymenoptera	14
+Dissostichus_mawsoni	Dissostichus_mawsoni	Dissostichus mawsoni	Teleostei	17
+Dorcoceras_hygrometricum	Dorcoceras_hygrometricum	Dorcoceras hygrometricum	Embryophyta	50
+Drosophila_erecta	Drosophila_erecta	Drosophila erecta	Lepido Diptera	46
+Drosophila_grimshawi	Drosophila_grimshawi	Drosophila grimshawi	Lepido Diptera	30
+Drosophila_guanche	Drosophila_guanche	Drosophila guanche	Lepido Diptera	12
+Drosophila_mauritiana	Drosophila_mauritiana	Drosophila mauritiana	Lepido Diptera	50
+Drosophila_melanogaster	Drosophila_melanogaster	Drosophila melanogaster	Lepido Diptera	129
+Drosophila_pseudoobscura	Drosophila_pseudoobscura	Drosophila pseudoobscura	Lepido Diptera	32
+Drosophila_sechellia	Drosophila_sechellia	Drosophila sechellia	Lepido Diptera	50
+Drosophila_simulans	Drosophila_simulans	Drosophila simulans	Lepido Diptera	12
+Drosophila_subpulchrella	Drosophila_subpulchrella	Drosophila subpulchrella	Lepido Diptera	10
+Drosophila_suzukii	Drosophila_suzukii	Drosophila suzukii	Lepido Diptera	23
+Dufourea_novaeangliae	Dufourea_novaeangliae	Dufourea novaeangliae	Hymenoptera	1
+Durio_zibethinus	Durio_zibethinus	Durio zibethinus	Embryophyta	18
+Echinococcus_granulosus	Echinococcus_granulosus	Echinococcus granulosus	Other Invertebrates	50
+Elaeis_guineensis	Elaeis_guineensis	Elaeis guineensis	Embryophyta	50
+Electrophorus_electricus	Electrophorus_electricus	Electrophorus electricus	Teleostei	12
+Elysia_chlorotica	Elysia_chlorotica	Elysia chlorotica	Other Invertebrates	13
+Enhydra_lutris	Enhydra_lutris	Enhydra lutris	Mammalia	4
+Equus_asinus	Equus_asinus	Equus asinus	Mammalia	34
+Equus_caballus	Equus_caballus	Equus caballus	Mammalia	19
+Eragrostis_curvula	Eragrostis_curvula	Eragrostis curvula	Embryophyta	2
+Erinaceus_europaeus	Erinaceus_europaeus	Erinaceus europaeus	Mammalia	2
+Erythranthe_guttata	Erythranthe_guttata	Erythranthe guttata	Embryophyta	50
+Erythrura_gouldiae	Erythrura_gouldiae	Erythrura gouldiae	Aves	9
+Eucalyptus_grandis	Eucalyptus_grandis	Eucalyptus grandis	Embryophyta	50
+Eudyptes_filholi	Eudyptes_filholi	Eudyptes filholi	Aves	4
+Eufriesea_mexicana	Eufriesea_mexicana	Eufriesea mexicana	Hymenoptera	1
+Eumeta_japonica	Eumeta_japonica	Eumeta japonica	Lepido Diptera	8
+Eurytemora_affinis	Eurytemora_affinis	Eurytemora affinis	Other Invertebrates	50
+Eutrema_salsugineum	Eutrema_salsugineum	Eutrema salsugineum	Embryophyta	50
+Exaiptasia_diaphana	Exaiptasia_diaphana	Exaiptasia diaphana	Other Invertebrates	50
+Felis_catus	Felis_catus	Felis catus	Mammalia	3
+Fragaria_vesca	Fragaria_vesca	Fragaria vesca	Embryophyta	50
+Fundulus_heteroclitus	Fundulus_heteroclitus	Fundulus heteroclitus	Teleostei	50
+Gadus_morhua	Gadus_morhua	Gadus morhua	Teleostei	50
+Gallus_gallus	Gallus_gallus	Gallus gallus	Aves	217
+Gekko_japonicus	Gekko_japonicus	Gekko japonicus	Other Vertebrates	7
+Gigantopelta_aegis	Gigantopelta_aegis	Gigantopelta aegis	Other Invertebrates	37
+Glossina_fuscipes	Glossina_fuscipes	Glossina fuscipes	Lepido Diptera	9
+Glycine_max	Glycine_max	Glycine max	Embryophyta	50
+Glycine_soja	Glycine_soja	Glycine soja	Embryophyta	50
+Gopherus_evgoodei	Gopherus_evgoodei	Gopherus evgoodei	Other Vertebrates	5
+Gorilla_gorilla	Gorilla_gorilla	Gorilla gorilla	Mammalia	50
+Gossypium_arboreum	Gossypium_arboreum	Gossypium arboreum	Embryophyta	50
+Gossypium_armourianum	Gossypium_armourianum	Gossypium armourianum	Embryophyta	2
+Gossypium_australe	Gossypium_australe	Gossypium australe	Embryophyta	33
+Gossypium_barbadense	Gossypium_barbadense	Gossypium barbadense	Embryophyta	50
+Gossypium_darwinii	Gossypium_darwinii	Gossypium darwinii	Embryophyta	8
+Gossypium_davidsonii	Gossypium_davidsonii	Gossypium davidsonii	Embryophyta	41
+Gossypium_hirsutum	Gossypium_hirsutum	Gossypium hirsutum	Embryophyta	50
+Gossypium_klotzschianum	Gossypium_klotzschianum	Gossypium klotzschianum	Embryophyta	11
+Gossypium_raimondii	Gossypium_raimondii	Gossypium raimondii	Embryophyta	50
+Gossypium_trilobum	Gossypium_trilobum	Gossypium trilobum	Embryophyta	37
+Grammomys_surdaster	Grammomys_surdaster	Grammomys surdaster	Mammalia	4
+Gymnodraco_acuticeps	Gymnodraco_acuticeps	Gymnodraco acuticeps	Teleostei	50
+Gymnogyps_californianus	Gymnogyps_californianus	Gymnogyps californianus	Aves	13
+Habropoda_laboriosa	Habropoda_laboriosa	Habropoda laboriosa	Hymenoptera	1
+Halichoerus_grypus	Halichoerus_grypus	Halichoerus grypus	Mammalia	32
+Haliotis_rufescens	Haliotis_rufescens	Haliotis rufescens	Other Invertebrates	50
+Halyomorpha_halys	Halyomorpha_halys	Halyomorpha halys	Other Insecta	6
+Handroanthus_impetiginosus	Handroanthus_impetiginosus	Handroanthus impetiginosus	Embryophyta	1
+Harpegnathos_saltator	Harpegnathos_saltator	Harpegnathos saltator	Hymenoptera	166
+Helianthus_annuus	Helianthus_annuus	Helianthus annuus	Embryophyta	50
+Hermetia_illucens	Hermetia_illucens	Hermetia illucens	Lepido Diptera	50
+Herrania_umbratica	Herrania_umbratica	Herrania umbratica	Embryophyta	6
+Heterocephalus_glaber	Heterocephalus_glaber	Heterocephalus glaber	Mammalia	54
+Hevea_brasiliensis	Hevea_brasiliensis	Hevea brasiliensis	Embryophyta	50
+Hibiscus_syriacus	Hibiscus_syriacus	Hibiscus syriacus	Embryophyta	4
+Hirundo_rustica	Hirundo_rustica	Hirundo rustica	Aves	6
+Homarus_americanus	Homarus_americanus	Homarus americanus	Other Invertebrates	50
+Homo_sapiens	Homo_sapiens	Homo sapiens	Mammalia	313
+Hydra_vulgaris	Hydra_vulgaris	Hydra vulgaris	Other Invertebrates	50
+Ignelater_luminosus	Ignelater_luminosus	Ignelater luminosus	Other Insecta	7
+Ipomoea_nil	Ipomoea_nil	Ipomoea nil	Embryophyta	27
+Ipomoea_triloba	Ipomoea_triloba	Ipomoea triloba	Embryophyta	29
+Ixodes_scapularis	Ixodes_scapularis	Ixodes scapularis	Other Invertebrates	46
+Jatropha_curcas	Jatropha_curcas	Jatropha curcas	Embryophyta	50
+Juglans_regia	Juglans_regia	Juglans regia	Embryophyta	50
+Lactuca_saligna	Lactuca_saligna	Lactuca saligna	Embryophyta	3
+Lamprotornis_superbus	Lamprotornis_superbus	Lamprotornis superbus	Aves	34
+Lates_calcarifer	Lates_calcarifer	Lates calcarifer	Teleostei	50
+Lepeophtheirus_salmonis	Lepeophtheirus_salmonis	Lepeophtheirus salmonis	Other Invertebrates	50
+Lepidothrix_coronata	Lepidothrix_coronata	Lepidothrix coronata	Aves	7
+Leptinotarsa_decemlineata	Leptinotarsa_decemlineata	Leptinotarsa decemlineata	Other Insecta	21
+Leptonychotes_weddellii	Leptonychotes_weddellii	Leptonychotes weddellii	Mammalia	7
+Linepithema_humile	Linepithema_humile	Linepithema humile	Hymenoptera	23
+Lingula_anatina	Lingula_anatina	Lingula anatina	Other Invertebrates	17
+Loa_loa	Loa_loa	Loa loa	Nematoda	1
+Lonchura_striata	Lonchura_striata	Lonchura striata	Aves	29
+Loxodonta_africana	Loxodonta_africana	Loxodonta africana	Mammalia	23
+Lucilia_cuprina	Lucilia_cuprina	Lucilia cuprina	Lepido Diptera	23
+Lupinus_albus	Lupinus_albus	Lupinus albus	Embryophyta	50
+Lupinus_angustifolius	Lupinus_angustifolius	Lupinus angustifolius	Embryophyta	50
+Lynx_canadensis	Lynx_canadensis	Lynx canadensis	Mammalia	2
+Lynx_pardinus	Lynx_pardinus	Lynx pardinus	Mammalia	12
+Macaca_mulatta	Macaca_mulatta	Macaca mulatta	Mammalia	177
+Macleaya_cordata	Macleaya_cordata	Macleaya cordata	Embryophyta	11
+Macrostomum_lignano	Macrostomum_lignano	Macrostomum lignano	Other Invertebrates	50
+Malaclemys_terrapin	Malaclemys_terrapin	Malaclemys terrapin	Other Vertebrates	50
+Malus_baccata	Malus_baccata	Malus baccata	Embryophyta	21
+Malus_domestica	Malus_domestica	Malus domestica	Embryophyta	50
+Mamestra_configurata	Mamestra_configurata	Mamestra configurata	Lepido Diptera	12
+Manihot_esculenta	Manihot_esculenta	Manihot esculenta	Embryophyta	50
+Manis_javanica	Manis_javanica	Manis javanica	Mammalia	42
+Marchantia_polymorpha	Marchantia_polymorpha	Marchantia polymorpha	Embryophyta	35
+Marmota_flaviventris	Marmota_flaviventris	Marmota flaviventris	Mammalia	43
+Mastomys_coucha	Mastomys_coucha	Mastomys coucha	Mammalia	5
+Megachile_rotundata	Megachile_rotundata	Megachile rotundata	Hymenoptera	108
+Melanaphis_sacchari	Melanaphis_sacchari	Melanaphis sacchari	Other Insecta	6
+Melipona_quadrifasciata	Melipona_quadrifasciata	Melipona quadrifasciata	Hymenoptera	1
+Melitaea_cinxia	Melitaea_cinxia	Melitaea cinxia	Lepido Diptera	50
+Meloidogyne_enterolobii	Meloidogyne_enterolobii	Meloidogyne enterolobii	Nematoda	7
+Melospiza_melodia	Melospiza_melodia	Melospiza melodia	Aves	10
+Meriones_unguiculatus	Meriones_unguiculatus	Meriones unguiculatus	Mammalia	34
+Microcebus_murinus	Microcebus_murinus	Microcebus murinus	Mammalia	31
+Micropterus_salmoides	Micropterus_salmoides	Micropterus salmoides	Teleostei	10
+Microtus_ochrogaster	Microtus_ochrogaster	Microtus ochrogaster	Mammalia	19
+Mikania_micrantha	Mikania_micrantha	Mikania micrantha	Embryophyta	50
+Miniopterus_natalensis	Miniopterus_natalensis	Miniopterus natalensis	Mammalia	18
+Mirounga_leonina	Mirounga_leonina	Mirounga leonina	Mammalia	2
+Miscanthus_lutarioriparius	Miscanthus_lutarioriparius	Miscanthus lutarioriparius	Embryophyta	50
+Molossus_molossus	Molossus_molossus	Molossus molossus	Mammalia	9
+Molothrus_ater	Molothrus_ater	Molothrus ater	Aves	31
+Momordica_charantia	Momordica_charantia	Momordica charantia	Embryophyta	33
+Monodelphis_domestica	Monodelphis_domestica	Monodelphis domestica	Mammalia	269
+Morella_rubra	Morella_rubra	Morella rubra	Embryophyta	50
+Morus_notabilis	Morus_notabilis	Morus notabilis	Embryophyta	8
+Motacilla_alba	Motacilla_alba	Motacilla alba	Aves	8
+Mucuna_pruriens	Mucuna_pruriens	Mucuna pruriens	Embryophyta	2
+Mus_musculus	Mus_musculus	Mus musculus	Mammalia	317
+Mus_pahari	Mus_pahari	Mus pahari	Mammalia	14
+Musa_acuminata	Musa_acuminata	Musa acuminata	Embryophyta	50
+Musa_balbisiana	Musa_balbisiana	Musa balbisiana	Embryophyta	40
+Musca_domestica	Musca_domestica	Musca domestica	Lepido Diptera	12
+Mustela_putorius	Mustela_putorius	Mustela putorius	Mammalia	50
+Myotis_brandtii	Myotis_brandtii	Myotis brandtii	Mammalia	15
+Myotis_lucifugus	Myotis_lucifugus	Myotis lucifugus	Mammalia	50
+Myotis_myotis	Myotis_myotis	Myotis myotis	Mammalia	40
+Naja_naja	Naja_naja	Naja naja	Other Vertebrates	31
+Nasonia_vitripennis	Nasonia_vitripennis	Nasonia vitripennis	Hymenoptera	114
+Necator_americanus	Necator_americanus	Necator americanus	Nematoda	17
+Nelumbo_nucifera	Nelumbo_nucifera	Nelumbo nucifera	Embryophyta	50
+Nematolebias_whitei	Nematolebias_whitei	Nematolebias whitei	Teleostei	6
+Neomonachus_schauinslandi	Neomonachus_schauinslandi	Neomonachus schauinslandi	Mammalia	1
+Neophocaena_asiaeorientalis	Neophocaena_asiaeorientalis	Neophocaena asiaeorientalis	Mammalia	8
+Nicotiana_attenuata	Nicotiana_attenuata	Nicotiana attenuata	Embryophyta	50
+Nicotiana_sylvestris	Nicotiana_sylvestris	Nicotiana sylvestris	Embryophyta	20
+Nicotiana_tabacum	Nicotiana_tabacum	Nicotiana tabacum	Embryophyta	50
+Nicotiana_tomentosiformis	Nicotiana_tomentosiformis	Nicotiana tomentosiformis	Embryophyta	19
+Nicrophorus_vespilloides	Nicrophorus_vespilloides	Nicrophorus vespilloides	Other Insecta	46
+Nothobranchius_furzeri	Nothobranchius_furzeri	Nothobranchius furzeri	Teleostei	50
+Nothoprocta_perdicaria	Nothoprocta_perdicaria	Nothoprocta perdicaria	Aves	6
+Notolabrus_celidotus	Notolabrus_celidotus	Notolabrus celidotus	Teleostei	50
+Numida_meleagris	Numida_meleagris	Numida meleagris	Aves	50
+Nyctereutes_procyonoides	Nyctereutes_procyonoides	Nyctereutes procyonoides	Mammalia	13
+Nylanderia_fulva	Nylanderia_fulva	Nylanderia fulva	Hymenoptera	40
+Nymphaea_colorata	Nymphaea_colorata	Nymphaea colorata	Embryophyta	14
+Nymphaea_thermarum	Nymphaea_thermarum	Nymphaea thermarum	Embryophyta	16
+Nyssa_sinensis	Nyssa_sinensis	Nyssa sinensis	Embryophyta	1
+Octopus_bimaculoides	Octopus_bimaculoides	Octopus bimaculoides	Other Invertebrates	50
+Odocoileus_virginianus	Odocoileus_virginianus	Odocoileus virginianus	Mammalia	31
+Odontomachus_brunneus	Odontomachus_brunneus	Odontomachus brunneus	Hymenoptera	19
+Oenanthe_oenanthe	Oenanthe_oenanthe	Oenanthe oenanthe	Aves	8
+Oesophagostomum_dentatum	Oesophagostomum_dentatum	Oesophagostomum dentatum	Nematoda	34
+Olea_europaea	Olea_europaea	Olea europaea	Embryophyta	50
+Oncorhynchus_kisutch	Oncorhynchus_kisutch	Oncorhynchus kisutch	Teleostei	6
+Oncorhynchus_mykiss	Oncorhynchus_mykiss	Oncorhynchus mykiss	Teleostei	47
+Onthophagus_taurus	Onthophagus_taurus	Onthophagus taurus	Other Insecta	53
+Onychomys_torridus	Onychomys_torridus	Onychomys torridus	Mammalia	30
+Onychostruthus_taczanowskii	Onychostruthus_taczanowskii	Onychostruthus taczanowskii	Aves	11
+Ophiophagus_hannah	Ophiophagus_hannah	Ophiophagus hannah	Other Vertebrates	4
+Orbicella_faveolata	Orbicella_faveolata	Orbicella faveolata	Other Invertebrates	50
+Ornithorhynchus_anatinus	Ornithorhynchus_anatinus	Ornithorhynchus anatinus	Mammalia	6
+Orussus_abietinus	Orussus_abietinus	Orussus abietinus	Hymenoptera	2
+Oryctolagus_cuniculus	Oryctolagus_cuniculus	Oryctolagus cuniculus	Mammalia	338
+Oryza_brachyantha	Oryza_brachyantha	Oryza brachyantha	Embryophyta	5
+Oryza_sativa	Oryza_sativa	Oryza sativa	Embryophyta	50
+Osmia_bicornis	Osmia_bicornis	Osmia bicornis	Hymenoptera	19
+Osmia_lignaria	Osmia_lignaria	Osmia lignaria	Hymenoptera	41
+Ovis_aries	Ovis_aries	Ovis aries	Mammalia	37
+Owenia_fusiformis	Owenia_fusiformis	Owenia fusiformis	Other Invertebrates	48
+Oxyura_jamaicensis	Oxyura_jamaicensis	Oxyura jamaicensis	Aves	46
+Pan_troglodytes	Pan_troglodytes	Pan troglodytes	Mammalia	29
+Panicum_hallii	Panicum_hallii	Panicum hallii	Embryophyta	50
+Panicum_virgatum	Panicum_virgatum	Panicum virgatum	Embryophyta	50
+Panthera_leo	Panthera_leo	Panthera leo	Mammalia	7
+Panthera_tigris	Panthera_tigris	Panthera tigris	Mammalia	3
+Pantherophis_guttatus	Pantherophis_guttatus	Pantherophis guttatus	Other Vertebrates	35
+Papaver_somniferum	Papaver_somniferum	Papaver somniferum	Embryophyta	50
+Papilio_machaon	Papilio_machaon	Papilio machaon	Lepido Diptera	10
+Paramecium_tetraurelia	Paramecium_tetraurelia	Paramecium tetraurelia	Other Invertebrates	14
+Paramormyrops_kingsleyae	Paramormyrops_kingsleyae	Paramormyrops kingsleyae	Teleostei	38
+Parasponia_andersonii	Parasponia_andersonii	Parasponia andersonii	Embryophyta	46
+Patagioenas_fasciata	Patagioenas_fasciata	Patagioenas fasciata	Aves	10
+Pecten_maximus	Pecten_maximus	Pecten maximus	Other Invertebrates	50
+Pelodiscus_sinensis	Pelodiscus_sinensis	Pelodiscus sinensis	Other Vertebrates	2
+Penaeus_chinensis	Penaeus_chinensis	Penaeus chinensis	Other Invertebrates	50
+Penaeus_vannamei	Penaeus_vannamei	Penaeus vannamei	Other Invertebrates	50
+Perca_fluviatilis	Perca_fluviatilis	Perca fluviatilis	Teleostei	46
+Periophthalmus_magnuspinnatus	Periophthalmus_magnuspinnatus	Periophthalmus magnuspinnatus	Teleostei	5
+Peromyscus_maniculatus	Peromyscus_maniculatus	Peromyscus maniculatus	Mammalia	50
+Phalaenopsis_equestris	Phalaenopsis_equestris	Phalaenopsis equestris	Embryophyta	13
+Phascolarctos_cinereus	Phascolarctos_cinereus	Phascolarctos cinereus	Mammalia	50
+Phaseolus_vulgaris	Phaseolus_vulgaris	Phaseolus vulgaris	Embryophyta	50
+Phoenix_dactylifera	Phoenix_dactylifera	Phoenix dactylifera	Embryophyta	50
+Photinus_pyralis	Photinus_pyralis	Photinus pyralis	Other Insecta	30
+Phtheirospermum_japonicum	Phtheirospermum_japonicum	Phtheirospermum japonicum	Embryophyta	50
+Phyllostomus_discolor	Phyllostomus_discolor	Phyllostomus discolor	Mammalia	8
+Physcomitrium_patens	Physcomitrium_patens	Physcomitrium patens	Embryophyta	50
+Pieris_rapae	Pieris_rapae	Pieris rapae	Lepido Diptera	50
+Piliocolobus_tephrosceles	Piliocolobus_tephrosceles	Piliocolobus tephrosceles	Mammalia	50
+Pipistrellus_kuhlii	Pipistrellus_kuhlii	Pipistrellus kuhlii	Mammalia	6
+Pipra_filicauda	Pipra_filicauda	Pipra filicauda	Aves	36
+Pistacia_vera	Pistacia_vera	Pistacia vera	Embryophyta	42
+Plutella_xylostella	Plutella_xylostella	Plutella xylostella	Lepido Diptera	15
+Podarcis_muralis	Podarcis_muralis	Podarcis muralis	Other Vertebrates	50
+Pogonomyrmex_barbatus	Pogonomyrmex_barbatus	Pogonomyrmex barbatus	Hymenoptera	39
+Polistes_canadensis	Polistes_canadensis	Polistes canadensis	Hymenoptera	14
+Polistes_dominula	Polistes_dominula	Polistes dominula	Hymenoptera	12
+Pollicipes_pollicipes	Pollicipes_pollicipes	Pollicipes pollicipes	Other Invertebrates	5
+Populus_alba	Populus_alba	Populus alba	Embryophyta	50
+Populus_deltoides	Populus_deltoides	Populus deltoides	Embryophyta	50
+Populus_euphratica	Populus_euphratica	Populus euphratica	Embryophyta	50
+Populus_trichocarpa	Populus_trichocarpa	Populus trichocarpa	Embryophyta	50
+Prunus_armeniaca	Prunus_armeniaca	Prunus armeniaca	Embryophyta	50
+Prunus_avium	Prunus_avium	Prunus avium	Embryophyta	50
+Prunus_dulcis	Prunus_dulcis	Prunus dulcis	Embryophyta	50
+Prunus_mume	Prunus_mume	Prunus mume	Embryophyta	50
+Prunus_persica	Prunus_persica	Prunus persica	Embryophyta	50
+Pseudochaenichthys_georgianus	Pseudochaenichthys_georgianus	Pseudochaenichthys georgianus	Teleostei	35
+Pteropus_giganteus	Pteropus_giganteus	Pteropus giganteus	Mammalia	6
+Pteropus_vampyrus	Pteropus_vampyrus	Pteropus vampyrus	Mammalia	15
+Puma_concolor	Puma_concolor	Puma concolor	Mammalia	3
+Punica_granatum	Punica_granatum	Punica granatum	Embryophyta	50
+Puntigrus_tetrazona	Puntigrus_tetrazona	Puntigrus tetrazona	Teleostei	50
+Quercus_suber	Quercus_suber	Quercus suber	Embryophyta	45
+Ramazzottius_varieornatus	Ramazzottius_varieornatus	Ramazzottius varieornatus	Other Invertebrates	23
+Raphanus_sativus	Raphanus_sativus	Raphanus sativus	Embryophyta	50
+Rattus_norvegicus	Rattus_norvegicus	Rattus norvegicus	Mammalia	362
+Rhamnella_rubrinervis	Rhamnella_rubrinervis	Rhamnella rubrinervis	Embryophyta	4
+Rhododendron_simsii	Rhododendron_simsii	Rhododendron simsii	Embryophyta	40
+Rhododendron_williamsianum	Rhododendron_williamsianum	Rhododendron williamsianum	Embryophyta	1
+Ricinus_communis	Ricinus_communis	Ricinus communis	Embryophyta	50
+Rosa_chinensis	Rosa_chinensis	Rosa chinensis	Embryophyta	50
+Salix_brachista	Salix_brachista	Salix brachista	Embryophyta	1
+Salix_dunnii	Salix_dunnii	Salix dunnii	Embryophyta	14
+Salix_suchowensis	Salix_suchowensis	Salix suchowensis	Embryophyta	24
+Salmo_salar	Salmo_salar	Salmo salar	Teleostei	24
+Sander_lucioperca	Sander_lucioperca	Sander lucioperca	Teleostei	17
+Scaptodrosophila_lebanonensis	Scaptodrosophila_lebanonensis	Scaptodrosophila lebanonensis	Lepido Diptera	6
+Schistosoma_haematobium	Schistosoma_haematobium	Schistosoma haematobium	Other Invertebrates	40
+Scophthalmus_maximus	Scophthalmus_maximus	Scophthalmus maximus	Teleostei	50
+Selaginella_moellendorffii	Selaginella_moellendorffii	Selaginella moellendorffii	Embryophyta	50
+Senna_tora	Senna_tora	Senna tora	Embryophyta	39
+Seriola_lalandi	Seriola_lalandi	Seriola lalandi	Teleostei	50
+Sesamum_indicum	Sesamum_indicum	Sesamum indicum	Embryophyta	50
+Setaria_italica	Setaria_italica	Setaria italica	Embryophyta	50
+Setaria_viridis	Setaria_viridis	Setaria viridis	Embryophyta	50
+Sinapis_alba	Sinapis_alba	Sinapis alba	Embryophyta	13
+Sinocyclocheilus_anshuiensis	Sinocyclocheilus_anshuiensis	Sinocyclocheilus anshuiensis	Teleostei	4
+Sinocyclocheilus_rhinocerous	Sinocyclocheilus_rhinocerous	Sinocyclocheilus rhinocerous	Teleostei	4
+Solanum_chilense	Solanum_chilense	Solanum chilense	Embryophyta	50
+Solanum_pennellii	Solanum_pennellii	Solanum pennellii	Embryophyta	50
+Solanum_tuberosum	Solanum_tuberosum	Solanum tuberosum	Embryophyta	50
+Solenopsis_invicta	Solenopsis_invicta	Solenopsis invicta	Hymenoptera	23
+Sorghum_bicolor	Sorghum_bicolor	Sorghum bicolor	Embryophyta	50
+Spinacia_oleracea	Spinacia_oleracea	Spinacia oleracea	Embryophyta	50
+Spirodela_intermedia	Spirodela_intermedia	Spirodela intermedia	Embryophyta	2
+Stegodyphus_dumicola	Stegodyphus_dumicola	Stegodyphus dumicola	Other Invertebrates	50
+Steinernema_carpocapsae	Steinernema_carpocapsae	Steinernema carpocapsae	Nematoda	50
+Striga_asiatica	Striga_asiatica	Striga asiatica	Embryophyta	8
+Strigops_habroptila	Strigops_habroptila	Strigops habroptila	Aves	5
+Struthio_camelus	Struthio_camelus	Struthio camelus	Aves	30
+Sturnus_vulgaris	Sturnus_vulgaris	Sturnus vulgaris	Aves	7
+Stylophora_pistillata	Stylophora_pistillata	Stylophora pistillata	Other Invertebrates	50
+Suricata_suricatta	Suricata_suricatta	Suricata suricatta	Mammalia	21
+Sus_scrofa	Sus_scrofa	Sus scrofa	Mammalia	55
+Tachysurus_fulvidraco	Tachysurus_fulvidraco	Tachysurus fulvidraco	Teleostei	50
+Takifugu_flavidus	Takifugu_flavidus	Takifugu flavidus	Teleostei	10
+Talpa_occidentalis	Talpa_occidentalis	Talpa occidentalis	Mammalia	19
+Tarenaya_hassleriana	Tarenaya_hassleriana	Tarenaya hassleriana	Embryophyta	50
+Teladorsagia_circumcincta	Teladorsagia_circumcincta	Teladorsagia circumcincta	Nematoda	32
+Terrapene_carolina	Terrapene_carolina	Terrapene carolina	Other Vertebrates	1
+Tetracentron_sinense	Tetracentron_sinense	Tetracentron sinense	Embryophyta	18
+Tetranychus_urticae	Tetranychus_urticae	Tetranychus urticae	Other Invertebrates	43
+Thalictrum_thalictroides	Thalictrum_thalictroides	Thalictrum thalictroides	Embryophyta	2
+Thamnophis_elegans	Thamnophis_elegans	Thamnophis elegans	Other Vertebrates	33
+Thamnophis_sirtalis	Thamnophis_sirtalis	Thamnophis sirtalis	Other Vertebrates	9
+Theobroma_cacao	Theobroma_cacao	Theobroma cacao	Embryophyta	50
+Thrips_palmi	Thrips_palmi	Thrips palmi	Other Insecta	22
+Trachemys_scripta	Trachemys_scripta	Trachemys scripta	Other Vertebrates	50
+Trema_orientale	Trema_orientale	Trema orientale	Embryophyta	5
+Tribolium_castaneum	Tribolium_castaneum	Tribolium castaneum	Other Insecta	14
+Trichechus_manatus	Trichechus_manatus	Trichechus manatus	Mammalia	11
+Trichogramma_pretiosum	Trichogramma_pretiosum	Trichogramma pretiosum	Hymenoptera	4
+Trichonephila_clavipes	Trichonephila_clavipes	Trichonephila clavipes	Other Invertebrates	22
+Trichuris_suis	Trichuris_suis	Trichuris suis	Nematoda	25
+Trifolium_subterraneum	Trifolium_subterraneum	Trifolium subterraneum	Embryophyta	12
+Tripterygium_wilfordii	Tripterygium_wilfordii	Tripterygium wilfordii	Embryophyta	21
+Triticum_dicoccoides	Triticum_dicoccoides	Triticum dicoccoides	Embryophyta	50
+Triticum_turgidum	Triticum_turgidum	Triticum turgidum	Embryophyta	50
+Tursiops_truncatus	Tursiops_truncatus	Tursiops truncatus	Mammalia	50
+Tyto_alba	Tyto_alba	Tyto alba	Aves	6
+Ursus_arctos	Ursus_arctos	Ursus arctos	Mammalia	45
+Vanilla_planifolia	Vanilla_planifolia	Vanilla planifolia	Embryophyta	44
+Varanus_komodoensis	Varanus_komodoensis	Varanus komodoensis	Other Vertebrates	7
+Varroa_destructor	Varroa_destructor	Varroa destructor	Other Invertebrates	50
+Vespula_pensylvanica	Vespula_pensylvanica	Vespula pensylvanica	Hymenoptera	8
+Vespula_vulgaris	Vespula_vulgaris	Vespula vulgaris	Hymenoptera	24
+Vicugna_pacos	Vicugna_pacos	Vicugna pacos	Mammalia	20
+Vigna_angularis	Vigna_angularis	Vigna angularis	Embryophyta	50
+Vigna_radiata	Vigna_radiata	Vigna radiata	Embryophyta	50
+Vigna_unguiculata	Vigna_unguiculata	Vigna unguiculata	Embryophyta	50
+Vitis_riparia	Vitis_riparia	Vitis riparia	Embryophyta	50
+Vitis_vinifera	Vitis_vinifera	Vitis vinifera	Embryophyta	36
+Vulpes_lagopus	Vulpes_lagopus	Vulpes lagopus	Mammalia	30
+Vulpes_vulpes	Vulpes_vulpes	Vulpes vulpes	Mammalia	50
+Xenopus_laevis	Xenopus_laevis	Xenopus laevis	Other Vertebrates	36
+Xenopus_tropicalis	Xenopus_tropicalis	Xenopus tropicalis	Other Vertebrates	6
+Zea_mays	Zea_mays	Zea mays	Embryophyta	47
+Zerene_cesonia	Zerene_cesonia	Zerene cesonia	Lepido Diptera	24
+Ziziphus_jujuba	Ziziphus_jujuba	Ziziphus jujuba	Embryophyta	50
+Zonotrichia_albicollis	Zonotrichia_albicollis	Zonotrichia albicollis	Aves	50
+Zootermopsis_nevadensis	Zootermopsis_nevadensis	Zootermopsis nevadensis	Other Insecta	53
+Zootoca_vivipara	Zootoca_vivipara	Zootoca vivipara	Other Vertebrates	5
+Zostera_marina	Zostera_marina	Zostera marina	Embryophyta	50

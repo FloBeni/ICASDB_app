@@ -1,0 +1,13 @@
+name	description
+Metazoa_v11_RAxML_concatenatAAS_cons150.aln.raxml	257 species on 731 genes
+Metazoa_v9_RAxML_concatenatAAS_cons150.aln.raxml	227 species on 870 genes
+Metazoa_v6_RAxML_concatenatAAS_cons100.aln.raxml	190 species on 866 genes
+Eukaryota_v7_RAxML_concatenatAAS.aln.raxml.rooted	175 species on 194 genes
+Eukaryota_v6_RAxML_concatenatAAS.aln.raxml.rooted	140 species on 236 genes
+Metazoa_v5_RAxML_concatenatAAS.aln.raxml.rooted	128 species on 862 genes
+Metazoa_v4_RAxML_concatenatAAS.aln.raxml.rooted	118 species on 854 genes
+Metazoa_v2_RAxML_concatenatAAS.aln.raxml.rooted	67 species on 896 genes
+Metazoa_RAxML_concatenatAAS.aln.raxml.rooted	61 species on 909 genes
+Metazoa_53sp_Busco_alignment_53sp_prank_DnDs_replicate_aas_tree_917genes_concatenatAAS.aln.raxml.rooted	53 species on 917 genes
+Metazoa_53sp_genes_in_every_species_prank_concatenat_concatenatAAS.phy_phyml_tree_rooted.txt.rooted	53 species on 16 genes
+DnDs_Metazoa_69sp_pgls_tree.rooted	69 species on 6 genes
