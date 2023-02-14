@@ -1,4 +1,4 @@
-species	delta_TriQuaSex	rho_aa_fpkm	nb_genes	pval_aa_fpkm	nb_aa	nb_scu
+species	delta_TriQuaSexv1	rho_aa_fpkmv1	nb_genesv1	pval_aa_fpkmv1	nb_aav1	nb_scuv1
 Microtus_ochrogaster	0.02301	0.789851862404547	12511	0.0000205737160790151	9	15
 Lonchura_striata	0.02323	0.826596171569636	7441	0.00000386428067141118	9	17
 Cyprinus_carpio	0.00112	0.769330896650479	16977	0.0000457080565064737	9	12

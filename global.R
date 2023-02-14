@@ -72,7 +72,7 @@ phylogenetic_trees = paste("www/phylogenetic_tree/",table_phylo$name,sep="")
 names(phylogenetic_trees) = table_phylo$description
 
 data_by_species = data.frame(species="")
-for (file in list.files("www/species_informations_tables",full.names = T)){
+for (file in list.files("www/species_informations_tables",full.names = T,pattern = "data_by_species.tab")){
   dt = read.delim(file,header = T)
   data_by_species = merge(dt,data_by_species, by.x = "species", by.y = "species", all.x = TRUE, all.y = TRUE)
 }
