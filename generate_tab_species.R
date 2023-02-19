@@ -16,6 +16,18 @@ metazoa_species_clade_lht[metazoa_species_clade_lht$clade %in% c("Nematoda","Hym
 metazoa_species_clade_lht$clade_group = factor(metazoa_species_clade_lht$clade_group, levels = c("Lepido Diptera","Hymenoptera","Other Insecta","Nematoda","Other Invertebrates","Mammalia","Aves","Teleostei","Other Vertebrates","Embryophyta"))
 table(metazoa_species_clade_lht$clade_group)
 
+# restrain = metazoa_species_clade_lht[!sapply(metazoa_species_clade_lht$species,function(x) file.exists(paste(path, "Projet-SplicedVariants/Analyses/",x,"/summary_characteristics.tab",sep="")) ),]
+# 
+# restrain$got_overlap = sapply(restrain$species,function(x) file.exists(paste(path, "Projet-SplicedVariants/Analyses/",x,"/by_intron_major_overlap.tab",sep="")) )
+# restrain$got_gene = sapply(restrain$species,function(x) file.exists(paste(path, "Projet-SplicedVariants/Analyses/",x,"/by_gene_analysis.tab",sep="")) )
+# restrain$got_gene = sapply(restrain$species,function(x) file.exists(paste(path, "Projet-SplicedVariants/Analyses/",x,"/by_gene_analysis.tab",sep="")) )
+# restrain = restrain[restrain$got_gene,]
+# restrain$got_gc = sapply(restrain$species,function(x) file.exists(paste(path, "Projet-SplicedVariants/Annotations/",x,"/GC_content.tab",sep="")) )
+# restrain$got_intron = sapply(restrain$species,function(x) file.exists(paste(path, "Projet-SplicedVariants/Analyses/",x,"/by_intron_cds.tab",sep="")) )
+# 
+# paste(restrain[restrain$got_overlap,]$species,collapse="','")
+
+
 get_CM_dNdS_true <- function(D) {
   cum_KS=sum(D$num_dS)
   cum_KN=sum(D$num_dN)
@@ -32,9 +44,12 @@ get_CM_dNdS_true <- function(D) {
 # species = 'Cervus_elaphus'
 # RECUPERE COLONNE
 all_dt = c()
-for (species in metazoa_species_clade_lht$species){print(species)
+for (species in metazoa_species_clade_lht$species){
   if (file.exists(paste(path, "Projet-SplicedVariants/Analyses/",species,"/summary_characteristics.tab",sep=""))){
     dt = read.delim(paste(path, "Projet-SplicedVariants/Analyses/",species,"/summary_characteristics.tab",sep=""))
+    if( "longevity;quant" %in% dt$label){print(species)
+      # file.remove(paste(path, "Projet-SplicedVariants/Analyses/",species,"/summary_characteristics.tab",sep=""))
+      }
     all_dt = c(dt$label,all_dt)
   }
 }
@@ -64,6 +79,7 @@ colnames(all_dt) = columns
 method_list = c("Embryophyta_v1"="Embryophyta_v1/subset_200_ksites_GC3/data_calculation.tab",
                 "Eukaryota_v6"="Eukaryota_v6/subset_200_ksites_GC3/data_calculation.tab",
                 "Eukaryota_v7"="Eukaryota_v7/subset_200_ksites_GC3/data_calculation.tab",
+                "Metazoa_v11"="Metazoa_v11/subset_200_ksites_GC3/data_calculation.tab",
                 "Metazoa_v9"="Metazoa_v9/subset_200_ksites_GC3/data_calculation.tab",
                 "Metazoa_v6"="Metazoa_v6/subset_200_ksites_GC3/data_calculation.tab",
                 "Metazoa_v5"="Metazoa_v5/subset_200_ksites_GC3/data_calculation.tab",

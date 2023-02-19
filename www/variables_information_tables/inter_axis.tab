@@ -37,6 +37,10 @@ Molecular evolutionary rate	dN/dS Embryophyta_v1	Embryophyta_v1_dnds.quant	none	
 Molecular evolutionary rate	dN Embryophyta_v1	Embryophyta_v1_dn.quant	none	TRUE
 Molecular evolutionary rate	dS Embryophyta_v1	Embryophyta_v1_ds.quant	none	TRUE
 
+Molecular evolutionary rate	dN/dS Metazoa_v11	Metazoa_v11_dnds.quant	none	TRUE
+Molecular evolutionary rate	dN Metazoa_v11	Metazoa_v11_dn.quant	none	TRUE
+Molecular evolutionary rate	dS Metazoa_v11	Metazoa_v11_ds.quant	none	TRUE
+
 Molecular evolutionary rate	dN/dS Metazoa_v9	Metazoa_v9_dnds.quant	none	TRUE
 Molecular evolutionary rate	dN Metazoa_v9	Metazoa_v9_dn.quant	none	TRUE
 Molecular evolutionary rate	dS Metazoa_v9	Metazoa_v9_ds.quant	none	TRUE
