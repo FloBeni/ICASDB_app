@@ -38,8 +38,8 @@ ui <- shinyUI(fluidPage(style = "background-color:#a7c2da;height: 100%;font-fami
                                      dropdown(
                                        tags$h2("Parameters"),
                                        pickerInput("svr_class",h3("Introns SVR classes"), choices = c( "All major introns" = "all",
-                                                                                                       "SVR > 5%" = "high",
-                                                                                                       "SVR <= 5%" = "low"
+                                                                                                       "SVR > 5%" = "high_SV",
+                                                                                                       "SVR <= 5%" = "low_SV"
                                        )),
                                        
                                        sliderInput("coverage_inter",h3("Minimal coverage (reads/bp)"),min = 0, max = 1000, value = 200),
